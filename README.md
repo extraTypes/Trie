@@ -1,3 +1,3 @@
 # Trie
 
-Flexible Trie datastructure implemented in C+=;
+Flexible Trie datastructure implemented in C++
