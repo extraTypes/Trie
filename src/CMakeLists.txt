@@ -1,4 +1,4 @@
-set(TARGET_NAME Template)
+set(TARGET_NAME Trie)
 
 add_library(
         ${TARGET_NAME}

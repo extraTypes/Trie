@@ -4,8 +4,8 @@ set(CMAKE_CXX_STANDARD ${LL_CXX_STANDARD})
 set(CMAKE_CXX_STANDARD_REQUIRED 1)
 
 
-project(TEMPLATE)
+project(TRIE)
 
 add_subdirectory(src)
-add_executable(TEMPLATE main.cpp)
-target_link_libraries(TEMPLATE PUBLIC Template)
+add_executable(TRIE main.cpp)
+target_link_libraries(TRIE PUBLIC Trie)

@@ -1,2 +1,3 @@
-# templateData
-Template repository for datatypes.
+# Trie
+
+Flexible Trie datastructure implemented in C+=;
