@@ -162,8 +162,7 @@ public:
         }
         cur.setVal(v);
     }
-
-    void delete()
+    
 
 
     /**
