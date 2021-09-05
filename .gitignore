@@ -1,0 +1,36 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+*.pyc
+*~
+# Mercurial:
+.hg*
+# IntelliJ config files:
+/.idea
+# Eclipse config files:
+/.cproject
+/.project
+# QtCreator config files:
+/*.config
+/*.creator
+/*.creator.user
+/*.files
+/*.includes
+/*.autosave
+/CMakeLists.txt.user*
+# Mac Finder:
+.DS_Store
+# CLion/IntelliJ
+*cmake-build-debug
+.idea/*
+build/*
+build/out/*
+docs/html
